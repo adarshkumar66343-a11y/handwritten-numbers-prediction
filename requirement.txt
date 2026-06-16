@@ -2,4 +2,4 @@ streamlit
 tensorflow==2.16.1
 numpy
 pillow
-python-3.11
+
